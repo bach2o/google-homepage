@@ -1,0 +1,31 @@
+#gglicon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.searchbar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 45px;
+    border-radius: 30px;
+    /* background: url('image/search-icon.png') top left no-repeat; */
+    /* padding-left: 25px; */
+}
+
+.searchbar:hover {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 45px;
+    border-radius: 30px;
+    /* background: url('image/search-icon.png') top left no-repeat; */
+    /* padding-left: 25px; */
+    box-shadow: 1px 1px 5px gray ;
+}
