@@ -87,7 +87,7 @@ footer {
 .navigation-bar-top {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding-right: 10px;
     text-align: right;
     /* display: flex;
     justify-content: flex-end; */
@@ -141,15 +141,13 @@ li {
 } */
 
 /* .footer-bar {
-    margin-top: ;
-    display: flex;
-    justify-content: space;
+    padding: 0;
 } */
 
-/* .footer-bar-left {
-    margin-left: 0;
+.footer-bar-left {
+    padding-left: 10px;
 }
 
 .footer-bar-right {
-    margin-right: 0;
-} */
+    padding-right: 10px;
+}
