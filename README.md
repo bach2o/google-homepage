@@ -1,2 +1,2 @@
 # google-homepage
-First try to replicate Google search homepage
+First try replicating Google search homepage
