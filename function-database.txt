@@ -1,0 +1,4 @@
+/creating random numbers between 0 and specified number/
+function random(number) {
+  return Math.floor(Math.random()*number);
+}
